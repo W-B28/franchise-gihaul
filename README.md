@@ -1,2 +1,4 @@
 # franchise-gihaul
-Franchisee marketing microsite
+Franchisee marketing landing page for veteran owned company GI Haul
+
+(https://gi-haul-microsite.glitch.me/)
