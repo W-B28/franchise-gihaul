@@ -1,0 +1,176 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  background-image: url("img/ann-kathrin-bopp.jpg");
+  min-height: 100%;
+  max-width: auto;
+  background-size: cover;
+}
+.action-bar {
+  position: absolute;
+  top: 150px;
+}
+.zip-column {
+  position: relative;
+  width: auto;
+}
+a.nav-item {
+  color: black !important;
+}
+
+h2#tampa {
+  display: inline;
+  font-weight: 400;
+  font-style: oblique;
+  margin-left: 0px;
+  padding-left: 0px;
+  font-size: 1.75em;
+}
+
+h3#discount {
+  display: inline-flex;
+  font-weight: 500;
+  font-size: 1.5rem;
+  font-style: oblique;
+  color: #8fc740;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  margin-right: 35px;
+}
+
+h3#top-rated {
+  display: inline-flex;
+  font-weight: 600;
+  font-style: oblique;
+  margin-left: 5px;
+  line-height: 1.5em;
+}
+
+h4.top-rated {
+  padding-bottom: 0.75em;
+}
+
+h5.remove {
+  line-height: 1.75em;
+}
+
+button#contact {
+  border: none;
+}
+
+.img {
+  max-height: 30px;
+  max-width: 30px;
+  margin-bottom: 5px;
+}
+.action-bar {
+  color: white;
+  background: rgba(0,0,0,0.4);
+  position: static;
+  width: 100%;
+  padding: 15px;
+}
+
+#zipcode {
+  display: inline-block !important;
+  width: 185px;
+}
+
+#modal-button {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-left: 0;
+  margin-right: auto;
+  display: inline-block !important;
+}
+
+
+.btn {
+  background-color: #80b13a;
+  border-color: #80b13a;
+}
+
+.btn:hover {
+  background-color: #8fc740;
+  border-color: #8fc740;
+}
+
+
+a.tel{
+  color: #80b13a !important;
+  font-size: 1.50rem
+}
+a.tel:hover {
+  color: #8fc740 !important;
+}
+
+div.items {
+  line-height: 2.2em;
+  font-size: 1.25em;
+}
+
+button.btn.btn-primary {
+  border: hidden;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+}
+
+.junk {
+  font-style: oblique;
+  font-weight: 500;
+  margin-left: 2.5%;
+}
+
+
+#res-com {
+position: relative;
+ top: 15%;
+ -webkit-transform: translateY(15%);
+ -ms-transform: translateY(15%);
+ transform: translateY(15%);
+ padding-bottom: 3em;
+}
+
+#hire-head {
+  position: relative;
+   top: 2%;
+   bottom: 5%
+   -webkit-transform: translateY(10%);
+   -ms-transform: translateY(10%);
+   transform: translateY(10%);
+}
+
+
+h2#footer-description {
+    display: inline-flex;
+    font-weight: 550;
+    font-style: oblique;
+    color: black;
+  }
+
+  h2#junk {
+    display: inline-flex;
+    font-weight: 550;
+    font-style: oblique;
+    margin-left: 5px;
+    color: black;
+  }
+
+
+a.shop.btn-link {
+  color: black !important;
+}
+
+a.terms {
+  color: black !important;
+  font-size: 0.75em;
+}
